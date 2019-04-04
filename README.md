@@ -12,4 +12,4 @@ An app to predict baby's gender.
 
 In the directory containing the extracted files, run flutter run command, with a debugging device connected.
 
-The flutter commands require Flutter SDK to be installed.s
+The flutter commands require Flutter SDK to be installed.
